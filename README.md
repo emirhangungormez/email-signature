@@ -2,7 +2,7 @@
 
 Bu README dosyası, HTML kodu aracılığıyla oluşturulmuş bir e-posta imzasını açıklamaktadır. Aşağıda, e-posta imzasının görüntüsü ve nasıl oluşturulduğuna dair açıklamalar bulunmaktadır.
 
-![E-posta İmzası](https://raw.githubusercontent.com/emirhangungormez/adastratr.com/main/blacklogo.png?token=GHSAT0AAAAAACHH5V7GP4JRD7YPN7QGRYX4ZPGM25A)
+![E-posta İmzası](https://adastratr.com/blacklogo.png)
 
 ## İçerik
 
